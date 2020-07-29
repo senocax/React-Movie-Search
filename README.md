@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Search movie in React
+
+![alt text](https://i.imgur.com/wwNtx8U.jpg)
+
 
 ## Available Scripts
 
